@@ -1,1 +1,1 @@
-# Coursera-Supervised-Machine-Learning-Regression-and-Classification
+# Week 1: Introduction to Machine Learning
