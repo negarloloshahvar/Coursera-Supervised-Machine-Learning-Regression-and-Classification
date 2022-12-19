@@ -1,1 +1,1 @@
-# Coursera-Supervised-Machine-Learning-Regression-and-Classification
+# Week 3: Classification

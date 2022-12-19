@@ -1,1 +1,1 @@
-# Coursera-Supervised-Machine-Learning-Regression-and-Classification
+# Week 2: Regression with Multiple Input Variables
