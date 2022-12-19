@@ -1,0 +1,2 @@
+# Her we will see how a linear regression model is defined in code, and we can see plots that show how well a model fits
+# some data given choices of w and b. We can also try different values of w and b to see if it improves the fit to the data.
