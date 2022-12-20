@@ -8,6 +8,7 @@ General
 - Notation	Description	Python (if applicable)
 - 𝑎 	scalar, non bold	
 - 𝐚 	vector, bold	
+
 Regression		
 - 𝐱 	Training Example feature values (in this lab - Size (1000 sqft))	x_train
 - 𝐲 	Training Example targets (in this lab Price (1000s of dollars))	y_train
