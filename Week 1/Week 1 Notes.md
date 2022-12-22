@@ -1,5 +1,16 @@
 # Week 1: Introduction to Machine Learning
 
+## Chapter Objectives
+
+- Define machine learning
+- Define supervised learning
+- Define unsupervised learning
+- Write and run Python code in Jupyter Notebooks
+- Define a regression model
+- Implement and visualize a cost function
+- Implement gradient descent
+- Optimize a regression model using gradient descent
+
 For linear regression, the model is represented by 𝑓𝑤,𝑏(𝑥)=𝑤𝑥 + 𝑏 	 or 𝑓(𝑥)=𝑤𝑥 + 𝑏.
 NumPy arrays have an attribute called ```shape``` that returns a tuple with each index having the number of corresponding elements.
 
