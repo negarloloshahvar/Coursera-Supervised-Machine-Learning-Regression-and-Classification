@@ -17,3 +17,11 @@ Regression
 - 𝑤 	parameter: weight	w
 - 𝑏 	parameter: bias	b
 - 𝑓𝑤,𝑏(𝑥(𝑖)) 	The result of the model evaluation at  𝑥(𝑖)  parameterized by  𝑤,𝑏 :  𝑓𝑤,𝑏(𝑥(𝑖))=𝑤𝑥(𝑖)+𝑏 	f_wb
+
+## Cost Function
+
+The cost function will tell us how well the model is doing so that we can try to get it to do better.
+
+![image](https://user-images.githubusercontent.com/113103161/209154964-69601815-e54e-4887-a0f8-da489a85296f.png)
+
+w and b are parameters of the model, adjusted as the model learns from the data. They’re also referred to as “coefficients” or “weights”
