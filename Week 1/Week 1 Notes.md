@@ -16,12 +16,12 @@ NumPy arrays have an attribute called ```shape``` that returns a tuple with each
 
 ## Notations
 
-* General
+### General
 - Notation	Description	Python (if applicable)
 - 𝑎 	scalar, non bold	
 - 𝐚 	vector, bold	
 
-* Regression		
+### Regression		
 - 𝐱 	Training Example feature values (in this lab - Size (1000 sqft))	x_train
 - 𝐲 	Training Example targets (in this lab Price (1000s of dollars))	y_train
 - 𝑥(𝑖) ,  𝑦(𝑖) 	 𝑖𝑡ℎ Training Example	x_i, y_i
