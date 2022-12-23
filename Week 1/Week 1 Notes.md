@@ -41,3 +41,6 @@ w and b are parameters of the model, adjusted as the model learns from the data.
 
 ## Gradient Descent
 Gradient descent is an algorithm for finding values of parameters w and b that minimize the cost function J.
+
+![image](https://user-images.githubusercontent.com/113103161/209239755-88f25ad6-c6b1-4685-9c06-dc5640ea08a6.png)
+
